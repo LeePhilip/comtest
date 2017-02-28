@@ -1,0 +1,14 @@
+{
+    "name": "phil/comtest",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Phil",
+            "email": "lee_phil@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
